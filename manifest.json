@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+  
+    "name": "GitTalkin",
+    "description": "This extension will help developers",
+    "version": "1.0",
+  
+    "browser_action": {
+     "default_icon": "logo.png",
+     "default_popup": "popup.html"
+    },
+    "permissions": [
+     "activeTab"
+     ]
+  }
