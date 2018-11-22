@@ -11,13 +11,3 @@ htmlParser.parse(html, {
     docType: function(value) { console.log('doctype: %s', value); },
     text: function(value) { console.log('text: %s', value); }
 });
-
-function getBranchName = () => {
-	var temp = ""
-	while(temp != "Branch")
-	var branchName = document.getElementsByTagName("button");
-
-
-}
-
-
