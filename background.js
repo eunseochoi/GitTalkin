@@ -1,7 +1,6 @@
 window.onload = function(){
   var checkPageButton = document.getElementById('checkPage');
     checkPageButton.addEventListener('click', function() {
-      chrome.tts.speak("LISTENING")
       
       if (annyang) {
         // Let's define a command.
@@ -19,3 +18,8 @@ window.onload = function(){
   
     }, false);
 }
+
+
+// $(document).ready(function(){
+//     navigator.mediaDevices.getUserMedia({audio: true})
+// });
