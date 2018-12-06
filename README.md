@@ -1,4 +1,4 @@
-# WIEHackathon
+# GitTalkin
 University of Waterloo Women in Engineering Hackathon @ Google
 
 Problem: 1/200 developers are low vision or blind, and use screen readers which solely read text left to right out loud. This is a time consuming process and often leads to lack of productivity.  
